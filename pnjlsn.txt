@@ -1,0 +1,24 @@
+CPU
+D0 - D7 =  = CONNECT SEMUA KE D0-D7 DI SETIAP KOMPONEN
+
+16 BIT ADDRESS BUS
+
+I/O BUTUH 2 A0 A1
+
+RAM OE 
+
+inverter
+
+
+0000h -> 1fff
+step brikut dikurang 1 
+jadi 2000h
+
+dikurng nanti pas mapping
+
+
+1 2 4 
+
+
+P0.0 -> KESMUA KOMPONEN D0-D7
+P1.0 -> KESMUA KOMPONEN A0 - A9
