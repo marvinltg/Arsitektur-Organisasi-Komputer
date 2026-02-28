@@ -10,9 +10,9 @@ Memory Mapper Calculator adalah aplikasi Flutter yang membantu melakukan perhitu
 
 # 🧑‍💻Developer Information
 
->> Name : Marvin Letunaung
->> Department : Informatics Engineering
->> Campus : Politeknik Negeri Manado
+- Name : Marvin Letunaung
+- Department : Informatics Engineering
+- Campus : Politeknik Negeri Manado
 
 ---
 
