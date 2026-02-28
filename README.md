@@ -33,4 +33,8 @@ Aplikasi ini dirancang untuk mempermudah mahasiswa Politeknik negeri manado untu
 
 >> https://chindo.my.id/download/update.apk
 
+## Showcase Application
+
+>> https://www.instagram.com/reel/DVQrbp3iP1_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+
 
