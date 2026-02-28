@@ -2,7 +2,17 @@
 
 Memory Mapper Calculator adalah aplikasi Flutter yang membantu melakukan perhitungan dan visualisasi alokasi memori secara sekuensial untuk sistem mikroprosesor seperti AT89C51 (64KB address space).
 
-Aplikasi ini dirancang untuk mempermudah mahasiswa Politeknik negeri manado untuk Teknik Komputer & Teknik Informatika dalam Mata Kuliah Arsitektur Organisasi Komputer.
+>> Aplikasi Ini dirancang agar mempermudah Mahasiswa Lebih Khusus Teknik Komputer & Teknik Informatika Dalam Pembelajaran.
+
+>> Mata Kuliah : Arsitektur & Organisasi Komputer
+
+---
+
+# 🧑‍💻Developer Information
+
+>> Name : Marvin Letunaung
+>> Department : Informatics Engineering
+>> Campus : Politeknik Negeri Manado
 
 ---
 
