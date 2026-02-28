@@ -31,6 +31,6 @@ Aplikasi ini dirancang untuk mempermudah mahasiswa Politeknik negeri manado untu
 
 ## Link Download Application
 
->> [https://www.mediafire.com/file/hl36k4nzgfac9z4/AddressCalculator.apk/file ](https://chindo.my.id/download/update.apk)
+>> https://chindo.my.id/download/update.apk
 
 
