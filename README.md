@@ -41,7 +41,11 @@ Memory Mapper Calculator adalah aplikasi Flutter yang membantu melakukan perhitu
 
 ## Link Download Application
 
->> https://chindo.my.id/download/update.apk
+>> https://www.mediafire.com/file/qduw5blm7ytw5pl/Mapp.apk/file
+
+## If You cant Login use this NIM & PASS, for bypass
+- NIM : 25024128
+- PIN : 123456
 
 ## Showcase Application
 
